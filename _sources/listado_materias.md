@@ -1,10 +1,7 @@
-title: "Listado de materias disponibles"
-author: "Bryan Rodriguez-UTPL"
-date: "April,2022"
 
-#Bryan Rodriguez
-##Listado de materias 
-###Carrera de computacion
+# Bryan Rodriguez
+## Listado de materias 
+### Carrera de computacion
 
 + Ingenieria de Requisitos 
 + Fundamentos de Redes
